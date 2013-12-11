@@ -1,0 +1,6 @@
+[submodule "FileTree"]
+	path = FileTree
+	url = https://github.com/Thedeath/FileTree.git
+[submodule "ImagePanel"]
+	path = ImagePanel
+	url = https://github.com/Thedeath/ImagePanel.git
