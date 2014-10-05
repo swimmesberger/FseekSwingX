@@ -4,3 +4,6 @@
 [submodule "ImagePanel"]
 	path = ImagePanel
 	url = https://github.com/Thedeath/ImagePanel.git
+[submodule "FileTable"]
+	path = FileTable
+	url = https://github.com/swimmesberger/FileTable.git
